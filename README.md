@@ -14,3 +14,5 @@ Si desea eliminar las imagenes con el filtro aplicado puede hacer un "make delet
 
 Este programa utiliza una biblioteca de bitmap de 24-bits creada por Arash Partow (2002)
 https://www.partow.net/programming/bitmap/index.html
+
+2021-II
